@@ -54,4 +54,4 @@ print("Average message sentiment: ", msgSentimentAvg)
 print("Avg positive sentiment:", msgSentimentPosTotal/count)
 print("Avg neg sentiment:", msgSentimentNegTotal/count)
 
-print("Total sentiment as predicted by flair: ", msgFlairSentimentTotal)
+print("Total sentiment as predicted by flair: ", msgFlairSentimentTotal/count)
